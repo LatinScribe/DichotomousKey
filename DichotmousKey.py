@@ -2,8 +2,6 @@
 import os
 import sys
 
-print("Fruits and Vegetables Dichotomous Key")
-
 # constant options
 YES = "1"
 NO = "2"
@@ -17,6 +15,7 @@ EXIT = "5"
 def seeds():
     # clear the screen
     os.system('cls')
+    print("Fruits and Vegetables Dichotomous Key")
     seeds = input("Does it have seeds?\n1. yes 2. no: ")
     if seeds == YES:
         red()
