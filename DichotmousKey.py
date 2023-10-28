@@ -121,6 +121,9 @@ else:
     print("Unexeptected input")
 
 
+def handelInput(input:str)
+
+
 
 # Other stuff, implement it yourself following the abouve
 # def yellow():
