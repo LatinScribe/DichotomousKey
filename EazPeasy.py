@@ -1,4 +1,4 @@
-"""Stuff"""
+"""Example of a list based QA program"""
 
 questions_list = [
   ['Which direction does the sun rise?: ', 'North', 'South', 'East', 'West', 'East'],
